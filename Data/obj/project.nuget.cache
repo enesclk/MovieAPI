@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFqBi6R5DfJHtauLzvLOOAROYFpCopmep0XJVxsogTWmaf52srKX4S+FBAYTo3s3AtzjT5FM/1GETtdXnqI2YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes.celik\\source\\repos\\MovieAPI CaseStudy\\Data\\Case.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enes.celik\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
+    "C:\\Users\\enes.celik\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\enes.celik\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

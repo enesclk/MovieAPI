@@ -1,0 +1,12 @@
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\bin\Debug\net5.0\Case.Common.deps.json
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\bin\Debug\net5.0\Case.Common.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\bin\Debug\net5.0\ref\Case.Common.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\bin\Debug\net5.0\Case.Common.pdb
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.csproj.AssemblyReference.cache
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.AssemblyInfoInputs.cache
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.AssemblyInfo.cs
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.csproj.CoreCompileInputs.cache
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\ref\Case.Common.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.Common\obj\Debug\net5.0\Case.Common.pdb

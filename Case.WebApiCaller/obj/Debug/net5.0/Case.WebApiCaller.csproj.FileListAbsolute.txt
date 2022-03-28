@@ -1,0 +1,13 @@
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\bin\Debug\net5.0\Case.WebApiCaller.dll.config
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\bin\Debug\net5.0\Case.WebApiCaller.deps.json
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\bin\Debug\net5.0\Case.WebApiCaller.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\bin\Debug\net5.0\ref\Case.WebApiCaller.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\bin\Debug\net5.0\Case.WebApiCaller.pdb
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.csproj.AssemblyReference.cache
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.AssemblyInfoInputs.cache
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.AssemblyInfo.cs
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.csproj.CoreCompileInputs.cache
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\ref\Case.WebApiCaller.dll
+C:\Users\enes.celik\source\repos\MovieAPI CaseStudy\Case.WebApiCaller\obj\Debug\net5.0\Case.WebApiCaller.pdb
